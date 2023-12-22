@@ -40,3 +40,4 @@ Features
 - Firebase Real-time Connection: Ensure real-time connectivity using Firebase for dynamic data updates.
 - Data Buffer Mechanism: Implement a data buffering mechanism to handle situations where an internet connection is unavailable.
 
+You can accessed the application in this link [app](https://drive.google.com/drive/folders/1_TlO-R0kvaPsB63v1rG8_IXS6FkVCO3-?usp=sharing)
